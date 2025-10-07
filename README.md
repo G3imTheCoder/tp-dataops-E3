@@ -23,22 +23,19 @@ Ce dataset inclut des informations cruciales telles que les scores aux examens, 
 Pour ce sprint, notre équipe est composée comme suit :
 
 |
- Rôle                
+ Rôle                 
 |
  Responsabilité principale                                                                                                    
 |
- Membre : 
+ Membre(s)               
 |
 |
-: Mehdi Eddalai
+:-------------------
 |
-:Ouakrim Mhamed-yasser
+:----------------------------------------------------------------------------------------------------------------------------
 |
-:TCHINDE Valdest
+:----------------------
 |
-:DONGMO-JIAZET Yann-pavel
-|
-:TRAORE Mohamed Nour
 |
 **
 Product Owner
@@ -46,7 +43,8 @@ Product Owner
 |
  Définit la vision du produit, gère le Product Backlog, maximise la valeur du travail de l'équipe.                              
 |
-Tchinde Valdesr
+ TCHINDE Valdest         
+|
 |
 **
 Scrum Master
@@ -54,7 +52,8 @@ Scrum Master
 |
  Facilite le processus Scrum, aide l'équipe à rester concentrée, élimine les obstacles.                                        
 |
-Eddalai Mehdi
+ Mehdi Eddalai           
+|
 |
 **
 Data Engineer
@@ -62,6 +61,9 @@ Data Engineer
 |
  Conçoit et construit les pipelines de données, gère l'infrastructure (Kaggle API, PostgreSQL).                                
 |
+*
+(À définir parmi les membres disponibles ou un rôle combiné)
+*
 |
 |
 **
@@ -70,7 +72,8 @@ Data Analyst
 |
  Comprend les besoins métier, explore les données, définit les transformations nécessaires pour l'analyse.                      
 |
-DONGMO-JIAZET Yann-pavel , TRAORE Mohamed Nour
+ DONGMO-JIAZET Yann-pavel, TRAORE Mohamed Nour 
+|
 |
 **
 DevOps Engineer
@@ -78,8 +81,9 @@ DevOps Engineer
 |
  Assure l'automatisation, la surveillance et le déploiement continu des pipelines (peut être combiné avec Data Engineer). 
 |
-Ouakrim Mhamed-yasser
-
+ Ouakrim Mhamed-yasser   
 |
 
 ## 🗺️ Structure du Dépôt (Vision)
+
+Bien que ce TP se concentre sur la planification, voici la structure envisagée pour le projet final :
