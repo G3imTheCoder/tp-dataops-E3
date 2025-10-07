@@ -61,8 +61,7 @@ Data Engineer
 |
  Conçoit et construit les pipelines de données, gère l'infrastructure (Kaggle API, PostgreSQL).                                
 |
-*
-(À définir parmi les membres disponibles ou un rôle combiné)
+TRAORE Mohamed Nour 
 *
 |
 |
@@ -72,18 +71,20 @@ Data Analyst
 |
  Comprend les besoins métier, explore les données, définit les transformations nécessaires pour l'analyse.                      
 |
- DONGMO-JIAZET Yann-pavel, TRAORE Mohamed Nour 
+ DONGMO-JIAZET Yann-pavel, Ouakrim Mhamed-yasser   
 |
 |
 **
 DevOps Engineer
 **
 |
- Assure l'automatisation, la surveillance et le déploiement continu des pipelines (peut être combiné avec Data Engineer). 
+ Assurent l'automatisation, la surveillance et le déploiement continu des pipelines . 
 |
- Ouakrim Mhamed-yasser   
+ 
 |
 
 ## 🗺️ Structure du Dépôt (Vision)
 
 Bien que ce TP se concentre sur la planification, voici la structure envisagée pour le projet final :
+Le projet est organisé selon une approche DataOps, structurée en plusieurs étapes : extraction des données depuis Kaggle, préparation et nettoyage, analyse exploratoire, visualisation des résultats, puis définition du pipeline automatisé.
+Chaque étape correspond à une User Story suivie dans GitHub Projects pour assurer une gestion agile et collaborative du cycle de vie des données.
